@@ -1,0 +1,22 @@
+{
+  "name": "Christmas",
+  "date": "2014-12-25 00:00:00",
+  "formats": {
+    "not": [
+      "nope (DAYS_LEFT days until it is though)",
+      "not yet, although in DAYS_LEFT days..."
+    ],
+    "yep": [
+      "yep!"
+    ],
+    "old": [
+      "already happened DAYS_LEFT days ago!"
+    ]
+  },
+  "twitter": {
+    "consumerKey": "",
+    "consumerSecret": "",
+    "accessToken": "",
+    "accessTokenSecret": ""
+  }
+}
